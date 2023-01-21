@@ -1,4 +1,4 @@
-Bu projemde yükleme animasyonunun değeri arttıkça bluru azalan image yaptım.
+Bu projemde yükleme animasyonunun değeri arttıkça bluru azalan image programı oluşturdum.
 
 
 
